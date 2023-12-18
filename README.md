@@ -11,7 +11,7 @@ Em seguida, os caracteres são escritos em uma grade, cujas linhas e colunas pos
 <p>Exemplo
 
 
-Depois de remover os espaços, a len da string é de 34 caracteres longos. está entre 5 e 7, portanto está escrito na forma de uma grade com 5 linhas e 7 colunas.</p>
+Depois de remover os espaços, a len da string é de 34 caracteres longos. então está entre 5 e 7, portanto está escrito na forma de uma grade com 5 linhas e 7 colunas.</p>
 
 ![Alt text](image.png)
 
